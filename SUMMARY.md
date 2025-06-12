@@ -28,5 +28,4 @@
 
 ## Sample Group 2
 
-* [API Sample](sample-group-2/api-sample.md)
 * [Github/Gitsync](sample-group-2/github-gitsync.md)
