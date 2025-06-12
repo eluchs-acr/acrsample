@@ -29,3 +29,4 @@
 ## Sample Group 2
 
 * [Github/Gitsync](sample-group-2/github-gitsync.md)
+* [Templates](sample-group-2/templates.md)
