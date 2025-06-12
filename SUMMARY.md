@@ -30,3 +30,5 @@
 
 * [Github/Gitsync](sample-group-2/github-gitsync.md)
 * [Templates](sample-group-2/templates.md)
+* [Subgroup](sample-group-2/subgroup/README.md)
+  * [Subpage](sample-group-2/subgroup/subpage.md)
