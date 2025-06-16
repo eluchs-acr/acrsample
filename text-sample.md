@@ -4,7 +4,7 @@ description: Showing how you can order text in the editor
 
 # Text Sample
 
-This is a paragraph. This is the most basic way of editing text within the app.  <a href="sample-group-1/image-sample.md" class="button primary">Navigate to Image Sample</a> You can also put in inline features such as buttons, images, and links in text.\
+This is a paragraph. This is the most basic way of editing text within the app.  <a href="content-examples/image-sample.md" class="button primary">Navigate to Image Sample</a> You can also put in inline features such as buttons, images, and links in text.\
 
 
 **Bold,** _Italics,_ ~~Strikethrough,~~ <mark style="color:red;">Color.</mark>

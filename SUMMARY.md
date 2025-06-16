@@ -7,28 +7,21 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Learning
+## Content Examples
 
-* [Editor](learning/editor.md)
-* [Markdown](learning/markdown.md)
-* [Images & media](learning/images-and-media.md)
-* [Interactive blocks](learning/interactive-blocks.md)
-* [OpenAPI](learning/openapi.md)
-* [Integrations](learning/integrations.md)
-
-## Sample Group 1
-
-* [Image Sample](sample-group-1/image-sample.md)
+* [Image Sample](content-examples/image-sample.md)
 
 ***
 
 * [Code Sample](code-sample.md)
+* [Interactive blocks](interactive-blocks.md)
 * [List Sample](list-sample.md)
 * [Text Sample](text-sample.md)
 
-## Sample Group 2
+## Other features
 
-* [Github/Gitsync](sample-group-2/github-gitsync.md)
-* [Templates](sample-group-2/templates.md)
-* [Subgroup](sample-group-2/subgroup/README.md)
-  * [Subpage](sample-group-2/subgroup/subpage.md)
+* [OpenAPI](other-features/openapi.md)
+* [Github/Gitsync](other-features/github-gitsync.md)
+* [Templates](other-features/templates.md)
+* [Parent Group](other-features/parent-group/README.md)
+  * [Child Group](other-features/parent-group/child-group.md)
