@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/ACR-Logo-light-bkg.svg
 coverY: 0
 layout:
   cover:
