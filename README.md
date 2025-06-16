@@ -20,9 +20,7 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+This the the proof-of-concept for ACR's documentation site using GitBook. [Content Examples](broken-reference) shows what documentation would look like in GitBook. [Other Features](broken-reference) displays various features relevant to the ACR, although not all features are included in the free version.
 
 ### Jump right in
 
