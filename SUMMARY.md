@@ -25,3 +25,7 @@
 * [Templates](other-features/templates.md)
 * [Parent Group](other-features/parent-group/README.md)
   * [Child Group](other-features/parent-group/child-group.md)
+
+## PoC Group
+
+* [PoC Page](poc-group/poc-page.md)
